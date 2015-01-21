@@ -640,3 +640,9 @@ p {
   width: 80%;
   clear: both;
 }
+
+body {
+  margin: 0 auto;
+  width: 80%;
+  clear: both;
+}
